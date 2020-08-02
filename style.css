@@ -11,6 +11,9 @@ button {
     cursor: pointer;
     margin: 10px;
 }
-#piwo img {
+img {
     width: 300px;
+}
+#doors {
+    width: 149px;
 }
